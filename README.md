@@ -22,4 +22,4 @@ In this repository, all necessary files are in place for building the OpenType/C
 
 ## Getting Involved
 
-Send suggestions for changes to the Tombo SP project maintainer, [Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub] Tombo SP), for consideration.
+Send suggestions for changes to the Tombo SP project maintainer, [Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Tombo%20SP), for consideration.
